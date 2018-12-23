@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace WebSite1
+namespace WebSite3
 {
     public static class AuthConfig
     {
